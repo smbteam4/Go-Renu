@@ -64,7 +64,7 @@ REST API - Golang services
 
 **List of Non-infected**
 
-   curl --location --request GET 'http://localhost:10000/api/v1/survivors/non-infected'
+    curl --location --request GET 'http://localhost:10000/api/v1/survivors/non-infected'
     
 **Load robots list**
 
